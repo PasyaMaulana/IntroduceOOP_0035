@@ -35,4 +35,6 @@ int main()
     pp.inputData();
     pp.hitungLuas();
     pp.outputData();
+
+    // sebelum memanggil pada fungsi main harus membuat objek untuk class persegi panjang dan memanggil nya harus urut input, hitung, dan output
 }
